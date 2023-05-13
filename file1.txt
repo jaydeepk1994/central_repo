@@ -1,0 +1,1 @@
+Git is a software tool designed to track and manage from small to very large projects
